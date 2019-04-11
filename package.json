@@ -1,0 +1,31 @@
+{
+  "main":"dir-list-file.js",
+  "name":"dir-list-file",
+  "version":"1.0.0",
+  "description":"List all files in directory.",
+  "keywords":[
+    "directory",
+    "files",
+    "list"
+  ],
+  "tags":[
+    "directory",
+    "files"
+  ],
+  "author":{
+    "name":"Thiago Silva",
+    "name":"thiago.eti@gmail.com",
+    "url":"https://thiago.eti.br"
+  },
+  "repository":{
+    "type":"git",
+    "url":"github:thiagoeti/nodejs-dir-list-file"
+  },
+  "bugs":"https://github.com/thiagoeti/nodejs-dir-list-file/issues",
+  "dependencies":{},
+  "license":"unlicense.org",
+  "engines":{
+    "node": "*",
+    "npm": "*"
+  }
+}
